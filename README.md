@@ -4,7 +4,7 @@ This is a simple Android app that randomly shows different fun facts and changes
 
 # Walkthrough
 
-<img src='https://github.com/anitaleung/fun-facts/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/anitaleung/fun-facts/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
